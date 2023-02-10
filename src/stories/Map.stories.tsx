@@ -4,7 +4,7 @@ import { TileLayer } from 'react-leaflet';
 import Map from '../components/Map';
 
 export default {
-  title: 'Example/Map',
+  title: 'Widgets/Map',
   component: Map,
 } as ComponentMeta<typeof Map>;
 
